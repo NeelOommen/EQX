@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="IMArhr" name="EQX" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              cppLanguageStandard="17">
   <MAINGROUP id="yK0xLw" name="EQX">
     <GROUP id="{CAE7BBB9-77B2-8E04-88A6-5EEBD563D835}" name="Source">
       <FILE id="Y47t0z" name="PluginProcessor.cpp" compile="1" resource="0"
